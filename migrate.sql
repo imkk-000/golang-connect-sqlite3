@@ -1,0 +1,2 @@
+CREATE TABLE users (id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, name TEXT);
+INSERT INTO (name) VALUES ('John'), ('Bob'), ('Lisa'), ('Lora')
